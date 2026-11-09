@@ -541,7 +541,9 @@ address {
     font-size: 1.5rem;
   }
   .ubicacion__map {
-    display: none;
+    width: 100%;
+    height: 400px;
+    min-height: 0;
   }
 
   .footer {
